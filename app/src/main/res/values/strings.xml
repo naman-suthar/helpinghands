@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Rakshak</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ipadd">192.168.1.106</string>
+
+  <string name="google_maps_key">AIzaSyAEm5KJNASFObtKYBvrQK9-ya703qYwO_Y</string>
+
+  <!--<string name="google_maps_key">AIzaSyC0pKg_2LUaMF-IDklGCa3l4LLopDIKZws</string>
+-->
+    <string name="style_json">
+      [
+      {
+        "featureType": "administrative",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "administrative.land_parcel",
+        "elementType": "labels",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "road",
+        "elementType": "labels.icon",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "road.local",
+        "elementType": "labels",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "transit",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      }
+      ]
+    </string>
+  <!--<string name="default_web_client_id" translatable="false">373574858124-qocfurkr7sa78fgp09iv5235sc6ag9t9.apps.googleusercontent.com</string>
+  -->
+  <string name="default_web_client_id" translatable="false">845304566656-s49iu2jsq303urt3a422qemi3rcp2dsu.apps.googleusercontent.com</string>
+  <string name="about_us"><b><b>Welcome to Rakshak</b></b>\nRakshak, which means \'protector\' in several Indian languages, is dedicated to enhancing disaster response efforts by leveraging technology to ensure quick, efficient, and coordinated rescue operations. Our application facilitates real-time location tracking of victims during disasters, enabling a faster and more precise response from rescue agencies.\n\n<b>Our Mission</b>\nOur mission is to save lives and mitigate the impacts of disasters through improved technology and collaboration. Rakshak aims to be an essential tool in the arsenal of rescue agencies, helping them to coordinate better and act swiftly in crisis situations.\n\n<b>How Rakshak Works</b>\nRakshak uses advanced geo-location technology to pinpoint the exact locations of disaster victims, transmitting this information in real-time to a central dashboard accessible by authorized rescue agencies including the National Disaster Response Force (NDRF), National Disaster Management Authority (NDMA), local fire stations, and police stations. This integration facilitates:\n\n* Immediate location-based alerts to nearby rescue teams\n* Enhanced coordination among different rescue agencies\n* Streamlined communication channels, reducing response times and duplication of efforts\n\n<b>Features of Rakshak</b>\n\n* User-Friendly Interface: Designed for ease of use, even under stressful and time-sensitive conditions.\n* Multi-Agency Dashboard: Allows various agencies to collaborate effectively, sharing resources and information seamlessly.\n* Real-Time Updates: Keeps all parties informed with the latest data on ongoing situations and victim statuses.\n\n
+  </string>
+  <string name="contact_us_headline">We are here to provide support and answer any questions you might have about Rakshak. Whether you need assistance, want to offer feedback, or are interested in collaborating with us, please don\'t hesitate to reach out. Our team is committed to making Rakshak an effective tool for disaster management and rescue operations.\n\nHow Can We Help?\n\nPlease use the following methods to contact our team:</string>
+  <string name="availability_call">Available from 9:00 AM to 6:00 PM IST, Monday through Friday</string>
+  <string name="visit_us">Address: [Insert Physical Address Here]\nOffice Hours: 9:00 AM - 5:00 PM, Monday to Friday</string>
+  <string name="social_media">Facebook: Follow us for updates and live information during ongoing rescue operations.\nTwitter: Tweet us your queries and join the conversation.\nInstagram: Check out our behind-the-scenes work and updates.\n\n\nSend Us a Message. We aim to respond to all inquiries within 24 hours.</string>
+  <string name="general_message">We value your input and appreciate the time you take to reach out to us. Our team is eager to assist and make your experience with Rakshak as effective and positive as possible.</string>
+
+
+  <string name="call_us">+919325711055</string>
+  <string name="email_general_inquiries">krutikasbarad@gmail.com</string>
+  <string name="email_support">bhavikakarnawat789@gmail.com</string>
+  <string name="email_partnerships">30102jak@gmail.com</string>
+  <string name="about_creators">We are a devoted team of software engineers, driven by the noble aspiration to support humanity amidst dangerous circumstances, through our innovative application.\nOur members include:\n1. Krutika Barad\n2. Vaishnavi Kulkarni\n3. Bhavika Karnawat\n4. Jagdish Kulkarni</string>
+</resources>

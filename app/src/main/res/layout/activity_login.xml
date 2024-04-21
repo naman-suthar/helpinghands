@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:background="@drawable/back_home"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginBottom="20dp">
+
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_above="@+id/txt_tagline"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="216dp"
+            android:layout_marginBottom="20dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/logo_rakshak" />
+
+        <TextView
+            android:id="@+id/txt_tagline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/login"
+            android:layout_marginBottom="115dp"
+            android:layout_centerHorizontal="true"
+            android:text="Your Safety Our Priority"
+            android:textFontWeight="100"
+            android:fontFamily="@font/days_one_regular"
+            android:textAppearance="@style/TextAppearance.Material3.HeadlineMedium"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:id="@+id/quick_help"
+            android:layout_width="270dp"
+            android:layout_height="50dp"
+            android:layout_gravity="bottom"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/buttonshape2"
+            android:text="Log In"
+            android:textColor="@color/rakshak_logo_background"
+            android:textSize="22sp" />
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="270dp"
+            android:layout_height="50dp"
+            android:layout_gravity="bottom"
+
+            android:layout_marginBottom="20dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/buttonshape2"
+            android:text="Sign Up"
+            android:textColor="@color/rakshak_logo_background"
+            android:textSize="22sp"
+            android:layout_above="@id/quick_help"/>
+    </RelativeLayout>
+
+
+</LinearLayout>

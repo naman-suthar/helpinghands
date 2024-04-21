@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_margin="20dp"
+    >
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/tv_title"
+    android:layout_margin="4dp"
+    android:textAppearance="@style/TextAppearance.Material3.TitleMedium"
+    />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginVertical="8dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Location: "
+            android:textAppearance="@style/TextAppearance.Material3.LabelSmall"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="19.234, 72.123"
+            android:id="@+id/tv_location_cords"
+            android:textAppearance="@style/TextAppearance.Material3.TitleMedium"
+            android:maxLines="1"
+            android:ellipsize="end"
+            />
+    </LinearLayout>
+
+    <Spinner
+        android:id="@+id/spinner_disaster"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_margin="12dp"
+        android:layout_gravity="end|center_vertical"
+        android:clickable="false"
+        android:focusable="false"
+        />
+
+    <Button
+        android:id="@+id/btn_submit_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        android:layout_margin="20dp"
+        />
+
+
+</LinearLayout>

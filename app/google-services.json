@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "845304566656",
+    "firebase_url": "https://pagination-8a49d-default-rtdb.firebaseio.com",
+    "project_id": "pagination-8a49d",
+    "storage_bucket": "pagination-8a49d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845304566656:android:9f3723f00290d47879e765",
+        "android_client_info": {
+          "package_name": "apps.ijp.helpinghandsv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845304566656-s49iu2jsq303urt3a422qemi3rcp2dsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqQ8DWMXg06ryDLNxEX8TbdmUlVWWTaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845304566656-s49iu2jsq303urt3a422qemi3rcp2dsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845304566656:android:2f1f942f3bf716ad79e765",
+        "android_client_info": {
+          "package_name": "com.naman.firebasepaginationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845304566656-s49iu2jsq303urt3a422qemi3rcp2dsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqQ8DWMXg06ryDLNxEX8TbdmUlVWWTaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845304566656-s49iu2jsq303urt3a422qemi3rcp2dsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845304566656:android:2dfe547ddc9c656479e765",
+        "android_client_info": {
+          "package_name": "com.naman.firepagination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845304566656-s49iu2jsq303urt3a422qemi3rcp2dsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqQ8DWMXg06ryDLNxEX8TbdmUlVWWTaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845304566656-s49iu2jsq303urt3a422qemi3rcp2dsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
